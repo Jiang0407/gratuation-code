@@ -1,0 +1,2 @@
+mex test2.cpp -ID:\E\OPENCV\opencv\build\include -LD:\E\OPENCV\opencv\build\x64\vc12\lib
+mex test2.cpp -ID:\E\OPENCV\opencv\build\include\opencv2 -LD:\E\OPENCV\opencv\build\x86\vc12\lib
